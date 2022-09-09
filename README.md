@@ -1,5 +1,9 @@
 ### Hi there! I'm Paulo Santos 👋
 
+- 👨‍💻 I'm working with Node.js and React
+- 📜 Studying Typescript
+- 📮 Contact me: paulo.santos02321@gmail.com
+
 <div align="center">
   <a href="https://github.com/paulo-lang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulo-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
