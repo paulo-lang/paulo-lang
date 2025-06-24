@@ -1,7 +1,6 @@
 ### Hi there! I'm Paulo Santos 👋
 
-- 👨‍💻 I'm working with Node.js and React
-- 📜 Studying Typescript
+- 👨‍💻 I'm a software developer working primarily with node.js, react, and PHP
 - 📮 Contact me: paulo.santos02321@gmail.com
 
 <div align="center">
